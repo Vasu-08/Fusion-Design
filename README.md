@@ -1,4 +1,4 @@
-# mi_card
+# fusion_assignment_1
 
 A new Flutter project.
 
