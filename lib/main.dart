@@ -2,10 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:footer/footer.dart';
 import 'package:footer/footer_view.dart';
 
-import 'screen8.dart';
 
 void main() {
-  runApp(const Mapp());
+  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {

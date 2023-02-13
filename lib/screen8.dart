@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class Mapp extends StatelessWidget {
-  const Mapp({Key? key}) : super(key: key);
+class MyApp extends StatelessWidget {
+  const MyApp({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -99,8 +99,7 @@ class Mapp extends StatelessWidget {
                 ),
                 const Card(
                   color: Colors.blue,
-                  margin:
-                      EdgeInsets.symmetric(vertical: 10.0, horizontal: 25.0),
+                  margin: EdgeInsets.symmetric(vertical: 10.0, horizontal: 25.0),
                   child: Padding(
                     padding: EdgeInsets.all(10.0),
                     child: Text(
