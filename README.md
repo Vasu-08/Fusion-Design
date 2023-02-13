@@ -1,4 +1,4 @@
-# fusion_assignment_1
+# fusion_assignment
 
 
 ## Getting Started
@@ -18,3 +18,5 @@
 ![Screen4](https://user-images.githubusercontent.com/107955853/216721227-79da3d72-c241-4a8c-914d-5a9b5e0f57b4.png)
 
 ![Screen5](https://user-images.githubusercontent.com/107955853/216721251-6be6c959-6459-4f65-a54a-b3ec454f5864.png)
+
+![image](https://user-images.githubusercontent.com/107955853/218577318-8c29f8f3-55ad-4ba0-b8f4-656aef41fb2a.png)

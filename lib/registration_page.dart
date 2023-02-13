@@ -1,10 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:footer/footer.dart';
-import 'package:footer/footer_view.dart';
 
-
-class Screen6 extends StatelessWidget {
-  const Screen6({Key? key}) : super(key: key);
+class Registration extends StatelessWidget {
+  const Registration({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -228,4 +225,3 @@ class Screen6 extends StatelessWidget {
     );
   }
 }
-
