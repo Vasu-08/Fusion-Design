@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class Mapp extends StatelessWidget {
-  const Mapp({Key? key}) : super(key: key);
+class MyApp extends StatelessWidget {
+  const MyApp({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {

@@ -2,8 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:footer/footer.dart';
 import 'package:footer/footer_view.dart';
 
-import 'screen5.dart';
-import 'screen7.dart';
+import 'screen8.dart';
 
 void main() {
   runApp(const Mapp());
