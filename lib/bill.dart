@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class MyApp extends StatelessWidget {
-  const MyApp({Key? key}) : super(key: key);
+class Bill extends StatelessWidget {
+  const Bill({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -106,7 +106,7 @@ class MyApp extends StatelessWidget {
                         color: Colors.grey,
                         child: const Center(
                           child: Text(
-                            'N.v eg',
+                            'Non-Veg',
                             style: TextStyle(
                               color: Colors.white,
                             ),

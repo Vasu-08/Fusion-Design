@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class Dashboard extends StatefulWidget {
-  const Dashboard({Key? key}) : super(key: key);
+class ModuleSelection extends StatefulWidget {
+  const ModuleSelection({Key? key}) : super(key: key);
 
   @override
-  State<Dashboard> createState() => _DashboardState();
+  State<ModuleSelection> createState() => _ModuleSelectionState();
 }
 
-class _DashboardState extends State<Dashboard> {
+class _ModuleSelectionState extends State<ModuleSelection> {
   var dropdownvalue = 'Academic Module';
   var items = [
     'Academic Module',
@@ -21,7 +21,6 @@ class _DashboardState extends State<Dashboard> {
     'Feeds Module',
     'Health Center Module',
   ];
-
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -133,3 +132,5 @@ class _DashboardState extends State<Dashboard> {
     );
   }
 }
+
+

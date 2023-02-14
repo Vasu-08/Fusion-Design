@@ -1,17 +1,15 @@
 import 'package:flutter/material.dart';
+import 'package:mi_card/dashboard_screen1.dart';
 
-void main() {
-  runApp(const Dashboard());
-}
 
-class Dashboard extends StatefulWidget {
-  const Dashboard({Key? key}) : super(key: key);
+class DashboardScreen2 extends StatefulWidget {
+  const DashboardScreen2({Key? key}) : super(key: key);
 
   @override
-  State<Dashboard> createState() => _DashboardState();
+  State<DashboardScreen2> createState() => _DashboardScreen2State();
 }
 
-class _DashboardState extends State<Dashboard> {
+class _DashboardScreen2State extends State<DashboardScreen2> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
